@@ -3,4 +3,8 @@ Hey budyy
 hello
 =======
 Hey budy
+<<<<<<< HEAD
 >>>>>>> fb54b15 (This is my first commit)
+=======
+Hey
+>>>>>>> c02b4c9 (this is my second code)
